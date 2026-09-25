@@ -11,4 +11,4 @@ geographic and tourism service interactions, an interactive treemap,
 dynamic insights, and a town shortlist.
 
 ## Live App
-
+Open the app: https://lebanon-tourism-navigator.streamlit.app/
